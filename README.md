@@ -28,7 +28,7 @@ Because of this good quality face indexing, we are just intent to change the ver
 
 ## TROUBLES ##</br>
 </br>
-FBX Transosing</br>
+FBX Transposing</br>
 FBX index linking for your vertices is different usally than other 3D formats , as DAE for example.</br>
 RayTracing over mesh collider from a .fbx file is inefficient in Unity , as I tried for my experience ( but I have to confirm or infirm it ... )</br>
 So we have to transpose the mesh indexes from FBX to DAE , a process which complexify the code.</br>
