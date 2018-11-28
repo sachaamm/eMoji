@@ -56,7 +56,7 @@ To end the troubles section , I want to say that the further goal is not to buil
 but more to offer generative and exportable solutions for baked face animations , generative animation and generative creation of character ( with hairs and clothes )</br>
 </br>
 </br>
-## RESEARCHES ##</br>
+## RESEARCHES </br>
 </br>
 Hair shaders</br>
 </br>
