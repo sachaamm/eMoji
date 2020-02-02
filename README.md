@@ -3,7 +3,7 @@
 Generative face animation and modelling Tool
 
 
-## ---Key Controls---## 
+## ---Key Controls--- ## 
 
 CAMERA :</br> 
 TURN > Mousewheel click</br>
@@ -11,7 +11,7 @@ DRAG > Right Click</br>
 ZOOM > Mousewheel</br>
 </br>
 </br>
-## OVERVIEW ##</br>
+## OVERVIEW ##
 </br>
 the eMOJI Unity Asset is a project which allows you to animate face of your character, generate severals faces, </br>
 generate Hair procedurally, with FBX Files or other 3D formats , but you can add face animation over FBX rigged animations.</br>
