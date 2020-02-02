@@ -2,11 +2,9 @@
 </br>
 Generative face animation and modelling Tool
 
-</br>
 
-</br>
----Key Controls---</br>
-</br>
+## ---Key Controls---## 
+
 CAMERA :</br> 
 TURN > Mousewheel click</br>
 DRAG > Right Click</br>
